@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishaal7
+- 👋 Hi, I’m @Vishaal
 - 👀 I’m interested in ... Web development and front end frameworks
 - 🌱 I’m currently learning ... HTML , CSS and Javascript
 
